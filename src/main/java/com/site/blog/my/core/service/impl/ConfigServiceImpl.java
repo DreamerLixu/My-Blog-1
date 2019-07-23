@@ -26,10 +26,10 @@ public class ConfigServiceImpl implements ConfigService {
     public static final String yourEmail = "2449207463@qq.com";
     public static final String yourName = "十三";
 
-    public static final String footerAbout = "your personal blog. have fun.";
-    public static final String footerICP = "浙ICP备 xxxxxx-x号";
-    public static final String footerCopyRight = "@2018 十三";
-    public static final String footerPoweredBy = "personal blog";
+    public static final String footerAbout = "李旭的博客";
+    public static final String footerICP = "京ICP备18000618号-2";
+    public static final String footerCopyRight = "@2019 李旭";
+    public static final String footerPoweredBy = "李旭的博客";
     public static final String footerPoweredByURL = "##";
 
     @Override
