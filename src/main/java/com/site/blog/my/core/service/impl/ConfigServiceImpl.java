@@ -17,14 +17,14 @@ public class ConfigServiceImpl implements ConfigService {
     @Autowired
     private BlogConfigMapper configMapper;
 
-    public static final String websiteName = "personal blog";
-    public static final String websiteDescription = "personal blog是SpringBoot2+Thymeleaf+Mybatis建造的个人博客网站.SpringBoot实战博客源码.个人博客搭建";
+    public static final String websiteName = "李旭的博客";
+    public static final String websiteDescription = "本博客记录数据仓库相关知识经验";
     public static final String websiteLogo = "/admin/dist/img/logo2.png";
     public static final String websiteIcon = "/admin/dist/img/favicon.png";
 
     public static final String yourAvatar = "/admin/dist/img/13.png";
-    public static final String yourEmail = "2449207463@qq.com";
-    public static final String yourName = "十三";
+    public static final String yourEmail = "liv08@163.com";
+    public static final String yourName = "李旭";
 
     public static final String footerAbout = "李旭的博客";
     public static final String footerICP = "京ICP备18000618号-2";
